@@ -1,0 +1,100 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: Roboto;
+  font-size: 12px;
+  color: #424242;
+}
+
+h1, h2, h3 {
+  margin: 0; 
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* HEADER SETTINGS */
+
+.header-components {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+  height: 150px;
+  border-radius: 50%;
+}
+
+.header-name {
+  width: 100%;
+  font-size: 3em;
+  color: #212121;
+}
+
+.header-title {
+  width: 100%;
+  font-size: 2em;
+  color: #212121;
+  text-align: center;
+}
+
+/* Break Line */
+hr {
+  margin-top: 10px;
+  transform-origin: center;
+  height: 5px;
+}
+
+.hero-img {
+  margin-top: 15px;
+  width: 50%;
+  height: 351px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("/data/images/html.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.projects {
+  font-size: 8vw;
+}
+
+.featured {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+} 
+
+.featured-img {
+  width: 50%;
+}
+
+.featured-info {
+  font-size: 6vw;
+  text-align: center;
+}
+
+.featured-dsc {
+  text-align: center;
+  font-size: 2em;
+}
+
+.featured-item {
+  margin: 20px 0;
+}
