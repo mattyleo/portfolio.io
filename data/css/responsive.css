@@ -253,7 +253,7 @@
   }
 }
 
-@media screen and (min-width: 1950px) {
+@media screen and (min-width: 1900px) {
   .logo {
     width: 110px;
     margin-left: -700px;
@@ -300,5 +300,3 @@
     }
   }
 }
-
-
