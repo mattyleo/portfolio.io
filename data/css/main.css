@@ -5,11 +5,14 @@
 }
 
 body {
-  margin-left: 15%;
-  margin-right: 15%;
   font-family: Roboto;
   font-size: 12px;
   color: #424242;
+}
+
+.content {
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 h1, h2, h3 {
@@ -54,10 +57,11 @@ ul {
 }
 
 /* Break Line */
-hr {
+.separetor {
   margin-top: 10px;
-  transform-origin: center;
   height: 5px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .hero-img {
