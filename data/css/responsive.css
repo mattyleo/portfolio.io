@@ -196,7 +196,6 @@
 @media screen and (min-width: 1024px ) {
   .logo {
     margin-top: 20px;
-    margin-left: -360px;
   }
 
   .header-name  {
@@ -277,7 +276,7 @@
   }
   
   .hero-img {
-    width: 1200px;
+    width: 1280px;
     height: 600px;
   }
 
