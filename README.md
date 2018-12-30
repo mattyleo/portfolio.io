@@ -3,4 +3,4 @@
 <b>Project Description:</b>
 <p>Built a fully responsive site using <i>HTML, CSS & Flexbox</i></p>
 
-Photos courtesy of BBC.com and kaltek.it.
+<p>Photos courtesy of BBC.com, Mattia Leoni and kaltek.it.</p>
