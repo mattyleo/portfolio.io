@@ -66,9 +66,9 @@ hr {
   height: 351px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("/data/images/html.jpg");
+  /* background-image: url("/data/images/code.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
 }
 
 .projects {
